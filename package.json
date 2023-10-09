@@ -1,0 +1,24 @@
+{
+  "name": "ujian-aplikasi-absensi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naufalirsd/Absen_Naufal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naufalirsd/Absen_Naufal/issues"
+  },
+  "homepage": "https://github.com/Naufalirsd/Absen_Naufal#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
